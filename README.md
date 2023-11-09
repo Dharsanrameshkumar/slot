@@ -88,7 +88,7 @@ Execute the program using runserver command.
 <tr>
 <th ><h3>SN.NO.</h3></th>
 <th ><h3>SUBJECT CODE</h3></th>
-<th ><h3>SUJECT NAME</h3></th>
+<th ><h3>SUBJECT NAME</h3></th>
 </tr>
 <tr>
 <th >1</th>
@@ -125,8 +125,7 @@ Execute the program using runserver command.
 
 ```
 ## OUTPUT
-![Alt text](<Screenshot (16).png>)
-
+![Alt text](<Screenshot (17).png>)
 
 
 
